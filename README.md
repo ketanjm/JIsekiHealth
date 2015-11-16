@@ -1,1 +1,2 @@
-# JIsekiHealth
+# JisekiHealth
+mongoid, devise, twitter-bootstrap-rails
